@@ -3,7 +3,7 @@
 ## Description
 
 **Data:**
-   - Utilizing the [Google QuickDraw!]([https://drive.google.com/drive/folders/1oQpS2LVKm1o1JNrXl10DW1ndwIbxf_kh?usp=sharing](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)dataset.
+   - Utilizing the [Google QuickDraw!](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false) dataset.
    - This [dataset](https://drive.google.com/drive/folders/1oQpS2LVKm1o1JNrXl10DW1ndwIbxf_kh?usp=sharing) contains 43 classes with a total of 258,000 data points.
 
 **Augmentation:**
