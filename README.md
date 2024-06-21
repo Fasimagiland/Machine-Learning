@@ -1,6 +1,6 @@
-### Machine Learning part of Fasimagiland
+# Machine Learning part of Fasimagiland
 
-#### Description
+## Description
 
 **Data:**
    - Utilizing the [Google QuickDraw!]([https://drive.google.com/drive/folders/1oQpS2LVKm1o1JNrXl10DW1ndwIbxf_kh?usp=sharing](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)dataset.
